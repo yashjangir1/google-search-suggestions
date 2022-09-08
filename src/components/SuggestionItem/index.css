@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.suggestion-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  overflow: auto;
+}
+
+.suggestion-button {
+  border: none;
+  background-color: #ffffff;
+}
+
+.suggestion {
+  width: 100%;
+  font-family: Roboto;
+  font-size: 18px;
+  color: #475569;
+}
+
+.arrow-icon {
+  width: 25px;
+  height: 25px;
+}
